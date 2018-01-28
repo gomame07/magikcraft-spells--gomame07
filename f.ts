@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function f() {
-    magiik.celeritate();
+    magik.celeritate();
 }
