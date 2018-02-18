@@ -6,7 +6,8 @@ magik.doNTimes(
     function(){
         magik.dixit(`tet`)
         magik.infierno();
-    },10, 1000
+    },10, 10
+    
 );
 //magikcraft
 
