@@ -4,7 +4,7 @@ function faiya() {
 
 magik.doNTimes(
     function(){
-        magik.dixit(`しねー`)
+        magik.dixit(`はっははー`)
         magik.infierno();
     },10, 100
     
