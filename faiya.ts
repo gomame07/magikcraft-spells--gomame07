@@ -6,7 +6,8 @@ magik.doNTimes(
     function(){
         magik.dixit(`はっははー`)
         magik.infierno();
-    },10, 100
+    },10, 1000
+    
     
 );
 //magikcraft
