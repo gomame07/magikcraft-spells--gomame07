@@ -1,7 +1,7 @@
 const magik = magikcraft
 function rinngo() {
-     for (magik.satio(););
+      
 
-
-
+ for (magik.satio();) {
+ }
 
