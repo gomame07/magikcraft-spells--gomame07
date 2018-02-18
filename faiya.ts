@@ -4,7 +4,7 @@ function faiya() {
 
 magik.doNTimes(
     function(){
-        magik.dixit
+        magik.dixit(`tet`)
         magik.infierno();
     },10, 1000
 );
