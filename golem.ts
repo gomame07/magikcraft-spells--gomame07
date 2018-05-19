@@ -4,10 +4,10 @@ function golem(){
 
     const sender = magik.getSender();
     const EntityType = magik.type("entity.EntityType");
-    const Zombie = EntityType['ZOMBIE'];
+    const Golem = EntityType['IRON_GOLEM'];
 
     for (var i = 0; i < 100; i++) {
-        var arrow = sender.getWorld().spawnEntity(magik.aspecto(), Zombie);
+        var arrow = sender.getWorld().spawnEntity(magik.aspecto(), Golem);
     }
 
 }
